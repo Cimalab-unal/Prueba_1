@@ -11,6 +11,8 @@ Bienvenidos. Espacio creado principalmente para no ingenieros
 
 ### Qué es una Transformada de Fourier
 
+### Qué es un filtro
+
 ## Libros
 
 Hay dos libros en este espacio
