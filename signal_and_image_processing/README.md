@@ -3,7 +3,7 @@ Bienvenidos. Espacio creado principalmente para no ingenieros
 
 ### Qué es una señal
 
-### Qué es una cuantificación
+### Qué es una cuantización
 
 ### Qué es una señal continua y una señal discreta
 
