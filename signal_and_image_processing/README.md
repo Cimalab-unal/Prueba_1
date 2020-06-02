@@ -1,6 +1,6 @@
 # Señales y procesamiento de imágnes
-
-Lista de recursos y material
+Bienvenidos
+Espacio creado principalmente para no ingenieros
 
 ## Libros
 
