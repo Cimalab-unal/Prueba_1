@@ -37,6 +37,16 @@
         3.2.3. Partial fractions
         
         3.2.4. Trigonometrical sustitution
+        
+#### 4. Vectorial Calculus
+    
+    4.1. Escalar field
+    
+    4.2. Vectorial fields
+    
+    4.3. Level curves
+    
+    
 
 ## Libros
 
