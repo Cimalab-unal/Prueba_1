@@ -1,6 +1,5 @@
 # Señales y procesamiento de imágnes
-Bienvenidos
-Espacio creado principalmente para no ingenieros
+Bienvenidos. Espacio creado principalmente para no ingenieros
 
 ## Libros
 
