@@ -48,11 +48,11 @@ All topics of mathematics you can find in files. Here is a description of the co
         
 #### 4. Vectorial Calculus
     
-    4.1. Escalar field
+    4.1. Vectorial Functions
     
-    4.2. Vectorial fields
+    4.2. Scalar and Vectorial fields
     
-    4.3. Level curves
+    4.3. Double and triple integral 
     
 #### 5. Linear algebra
 
@@ -67,10 +67,10 @@ All topics of mathematics you can find in files. Here is a description of the co
     5.5. Defninition of vectorial space, base, transformation
     
     
-#### 6. Diferential equations
+#### 6. Differential equations
 
 
-#### 7. Dvances Mathematics
+#### 7. Advances Mathematics
 
 
 ## Books
