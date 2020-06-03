@@ -11,8 +11,14 @@
 #### 1. Functions
 
     1.1. Definition of function, definition of domain and range.
-
+    
     1.2. Definition of an injective, bijective and surjective function.
+    
+    1.3. Composition of function, inverse of a function.
+    
+    1.4. Trigonometric functions.
+    
+    1.5. Special function.
 
 #### 2. Diferential calculus
     
@@ -46,7 +52,11 @@
     
     4.3. Level curves
     
-    
+#### 5. Diferential equations
+
+
+#### 6. Dvances Mathematics
+
 
 ## Libros
 
