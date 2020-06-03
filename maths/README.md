@@ -81,6 +81,12 @@ I supposed the books you can find in the data base of the University.
 [Calculus vol i - Tom M. Apostol](https://www.amazon.com/-/es/Calculus-Vol-1-Apostol/dp/8126515198/ref=pd_sbs_14_1/144-0874711-7541917?_encoding=UTF8&pd_rd_i=8126515198&pd_rd_r=351542ae-1a4a-4af6-9c49-10b42c3b2b0d&pd_rd_w=34pQK&pd_rd_wg=AOQTq&pf_rd_p=665be1f4-8d3b-46dd-91b4-582d3cec8dd6&pf_rd_r=Z56D5HK7EVM5JDZXEFPE&psc=1&refRID=Z56D5HK7EVM5JDZXEFPE)
 
 [Calculus vol ii - Tom M. Apostol](https://www.amazon.com/-/es/Tom-M-Apostol/dp/8126515201)
+
+[Linear algebra - Department of mathematics - Universidad del Valle](http://matematicas.univalle.edu.co/~mvillegas/texto/textoalgrebralineal.pdf)
+
+[Linear algebra - Stanley I. Grossman](https://www.amazon.com/-/es/Stanley-I-Grossman/dp/0030973546)
+
+
 ## Artículos
 
 Referencias/links
