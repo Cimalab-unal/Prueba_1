@@ -1,4 +1,6 @@
-# Template
+# Read me:
+
+All topics of mathematics you can find in files. Here is a description of the contain of each file.
 
 ### Files Contain:
 
@@ -58,9 +60,10 @@
 #### 6. Dvances Mathematics
 
 
-## Libros
+## Books
+I supposed the books you can find in the data base of the University.
 
-Referencias (no subir archivos a menos que sean libres)
+[Differential equations - from Dennis G. Zill](https://www.amazon.es/Differential-Equations-Boundary-Value-Textbooks-Available/dp/1111827060)
 
 ## Artículos
 
