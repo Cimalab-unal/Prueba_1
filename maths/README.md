@@ -54,10 +54,23 @@ All topics of mathematics you can find in files. Here is a description of the co
     
     4.3. Level curves
     
-#### 5. Diferential equations
+#### 5. Linear algebra
+
+    5.1. Definition of a vector, matrix
+    
+    5.2. Gauss elimination
+    
+    5.3. Scalar product
+    
+    5.4. Vectorial product
+    
+    5.5. Defninition of vectorial space, base, transformation
+    
+    
+#### 6. Diferential equations
 
 
-#### 6. Dvances Mathematics
+#### 7. Dvances Mathematics
 
 
 ## Books
