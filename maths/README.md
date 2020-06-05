@@ -6,9 +6,13 @@ All topics of mathematics you can find in files. Here is a description of the co
 
 #### 0. Mathematical Logic
     
-    0.1. 
+    0.1. Formal Logic
     
-    0.2. 
+    0.2. Propositional logic
+    
+    0.3. Logic of first order
+    
+    0.4. Models theory
 
 #### 1. Functions
 
@@ -45,33 +49,43 @@ All topics of mathematics you can find in files. Here is a description of the co
         3.2.3. Partial fractions
         
         3.2.4. Trigonometrical sustitution
+    
+    3.3. Series un succesion
         
-#### 4. Vectorial Calculus
-    
-    4.1. Vectorial Functions
-    
-    4.2. Scalar and Vectorial fields
-    
-    4.3. Double and triple integral 
-    
-#### 5. Linear algebra
+#### 4. Linear algebra
 
-    5.1. Definition of a vector, matrix
+    4.1. Vectors
     
-    5.2. Gauss elimination
+    4.2. Matrix and equation system
     
-    5.3. Scalar product
+    4.3. Vecorial spaces
     
-    5.4. Vectorial product
+    5.5. Linear transformation, Eigenvector, Eigenvalues
+        
+#### 5. Vectorial Calculus
     
-    5.5. Defninition of vectorial space, base, transformation
+    5.1. Vectorial Functions
+    
+    5.2. Scalar and Vectorial fields
+    
+    5.3. Double and triple integral 
     
     
 #### 6. Differential equations
-
+    
+    6.1. DIfferential equation first order (Applications)
+    
+    6.2. Lineal equations of superior order (Applications)
+    
+    6.3. Solution of differential equations by series
+    
+    6.4. Laplace transformation
 
 #### 7. Advances Mathematics
-
+    
+    7.1. Variational calculus
+    
+    7.2. Complex variable
 
 ## Books
 I supposed the books you can find in the data base of the University.
