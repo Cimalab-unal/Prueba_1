@@ -50,7 +50,7 @@ All topics of mathematics you can find in files. Here is a description of the co
         
         3.2.4. Trigonometrical sustitution
     
-    3.3. Series un succesion
+    3.3. Series
         
 #### 4. Linear algebra
 
