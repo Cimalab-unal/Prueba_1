@@ -100,6 +100,8 @@ I supposed the books you can find in the data base of the University.
 
 [Linear algebra - Stanley I. Grossman](https://www.amazon.com/-/es/Stanley-I-Grossman/dp/0030973546)
 
+[Vectorial calculus - Department of mathematics - Universidad del Valle](http://mafalda.univalle.edu.co/~dohin/calculo-III/guias123.pdf)
+
 
 ## Artículos
 
