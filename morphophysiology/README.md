@@ -34,40 +34,58 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 
 ## 3. Enfermedades
 
-**3.1 Cáncer**
+### **3.1 Cáncer**
 * Link Youtube: https://www.youtube.com/watch?v=8LhQllh46yI
 * Libros:
   * **Silverthorne E(2009).** *Cancer*
   * **Ruddon R(2007).** *Cancer Biology*
 
-**3.2 Cáncer de Pulmón**
+**3.1.1 Cáncer de Pulmón**
 * Link Youtube: https://www.youtube.com/watch?v=AIz-nN2bzLk
 * Libro: **Ferreiro C, Alcamo E(2007).** *Lung Cancer*
 * Artículo: **Dela Cruz, C. S., Tanoue, L. T., & Matthay, R. A. (2011).** Lung cancer: epidemiology, etiology, and prevention. <a href="https://doi.org/10.1016/j.ccm.2011.09.001">Link</a>
 
-**3.3 Cáncer de Mama**
+**3.1.2 Cáncer de Mama**
 * Link Youtube: https://www.youtube.com/watch?v=jPtCkcILCGU
 * Libro: Alkabban, F. M., & Ferguson, T. (2019). Cancer, breast. <a href="https://www.ncbi.nlm.nih.gov/books/NBK482286/">Link</a> 
 * Artículo: **Deshpande TM, Pandey AK, Shyama SK (2017).** Review: Breast cancer and etiology. <a href="https://www.oatext.com/pdf/TiM-17-110.pdf">Link</a>
 
-**3.4 Cancér de Estómago**
+**3.1.3 Cancér de Estómago**
 * Link Youtube: https://www.youtube.com/watch?v=TAk5ri1HKFc
 * Libro: **Gore R(2010).** *Gastric Cancer*
 * Artículo: **Sitarz, R., Skierucha, M., Mielko, J., Offerhaus, G., Maciejewski, R., & Polkowski, W. P. (2018).** Gastric cancer: epidemiology, prevention, classification, and treatment. <a href="https://doi.org/10.2147/CMAR.S149619">Link</a> 
 
-**3.5 Cáncer de Colon**
+**3.1.4 Cáncer de Colon**
 * Link Youtube: https://www.youtube.com/watch?v=Wb0-ginVmtk
 * Libro: **Dolwani, Sunil & Singh, Rajvinder & Ragunath, Krish. (2014).** Colorectal Cancer: Diagnosis and Clinical Management.
 * Artículo: **Kuipers, E. J., Grady, W. M., Lieberman, D., Seufferlein, T., Sung, J. J., Boelens, P. G., van de Velde, C. J., & Watanabe, T. (2015).** Colorectal cancer. <a href="https://doi.org/10.1038/nrdp.2015.65">Link</a> 
 
-**3.4 Cáncer de Páncreas**
+**3.1.5 Cáncer de Páncreas**
 * Links Youtube: 
   * https://www.youtube.com/watch?v=GqD9cQM-kzk
   * https://www.youtube.com/watch?v=YmsR_Vmom8o
 * Artículo: **McGuigan, A., Kelly, P., Turkington, R. C., Jones, C., Coleman, H. G., & McCain, R. S. (2018).** Pancreatic cancer: A review of clinical diagnosis, epidemiology, treatment and outcomes. <a href="https://doi.org/10.3748/wjg.v24.i43.4846">Link</a>
 
-**3.6 Cáncer de Próstata**
+**3.1.6 Cáncer de Próstata**
 * Link Youtube: https://www.youtube.com/watch?v=8sC3s9Jek7U
 * Libro: **Cramer S(2007).** *Prostate Cancer (Deadly Diseases and Epidemics)*
 * Artículo: **Merriel, S., Funston, G., & Hamilton, W. (2018).** Prostate Cancer in Primary Care. <a href="https://doi.org/10.1007/s12325-018-0766-1">Link</a>
+
+### **3.2 Enfermedades neurodegenerativas**
+
+**3.2.1 Alzheimer**
+* LinkS Youtube: 
+  * https://www.youtube.com/watch?v=wfLP8fFrOp0
+  * https://www.youtube.com/watch?v=dj3GGDuu15I
+* Artículo: **DeTure, M.A., Dickson, D.W.(2019).** The neuropathological diagnosis of Alzheimer’s disease.<a href="https://doi.org/10.1186/s13024-019-0333-5">Link</a>
+
+**3.2.2 Parkinson**
+* Links Youtube: 
+  * https://www.youtube.com/watch?v=AZRq15AD4yA
+  * https://www.youtube.com/watch?v=zTd0-A5yDZI
+* Artículo: **C. A. Davie(2008).** A review of Parkinson's disease<a href="https://doi.org/10.1093/bmb/ldn013">Link</a>
+
+**3.2.2 Esclerosis Múltiple**
+* Link Youtube: https://www.youtube.com/watch?v=jPtCkcILCGU
+* Artículo: **Dobson, R. and Giovannoni, G. (2019).** Multiple sclerosis – a review. <a href="https://doi.org/10.1111/ene.13819">Link</a>
 
