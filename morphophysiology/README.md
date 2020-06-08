@@ -39,7 +39,6 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 * Libros:
   * **Silverthorne E(2009).** *Cancer*
   * **Ruddon R(2007).** *Cancer Biology*
-* Article: 
 
 **3.2 Lung Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=AIz-nN2bzLk
