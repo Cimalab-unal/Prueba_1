@@ -39,19 +39,22 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 * Libros:
   * **Silverthorne E(2009).** *Cancer*
   * **Ruddon R(2007).** *Cancer Biology*
+* Article: 
 
 **3.2 Lung Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=AIz-nN2bzLk
 * Libro: **Ferreiro C, Alcamo E(2007).** *Lung Cancer*
+* Artículo: **Dela Cruz, C. S., Tanoue, L. T., & Matthay, R. A. (2011).** Lung cancer: epidemiology, etiology, and prevention. <a href="https://doi.org/10.1016/j.ccm.2011.09.001">Link</a>
 
 **3.3 Breast Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=jPtCkcILCGU
-* Libro: Alkabban, F. M., & Ferguson, T. (2019). Cancer, breast. Available from: https://www.ncbi.nlm.nih.gov/books/NBK482286/
+* Libro: Alkabban, F. M., & Ferguson, T. (2019). Cancer, breast. <a href="https://www.ncbi.nlm.nih.gov/books/NBK482286/">Link</a> 
 * Artículo: **Deshpande TM, Pandey AK, Shyama SK (2017).** Review: Breast cancer and etiology. <a href="https://www.oatext.com/pdf/TiM-17-110.pdf">Link</a>
 
 **3.4 Gastric Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=TAk5ri1HKFc
 * Libro: **Gore R(2010).** *Gastric Cancer*
+* Artículo: **Sitarz, R., Skierucha, M., Mielko, J., Offerhaus, G., Maciejewski, R., & Polkowski, W. P. (2018).** Gastric cancer: epidemiology, prevention, classification, and treatment. <a href="https://doi.org/10.2147/CMAR.S149619">Link</a> 
 
 **3.5 Colorectar Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=Wb0-ginVmtk
@@ -67,8 +70,5 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 **3.6 Prostate Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=8sC3s9Jek7U
 * Libro: **Cramer S(2007).** *Prostate Cancer (Deadly Diseases and Epidemics)*
+* Artículo: **Merriel, S., Funston, G., & Hamilton, W. (2018).** Prostate Cancer in Primary Care. <a href="https://doi.org/10.1007/s12325-018-0766-1">Link</a>
 
-## Artículos de interés
-
-
-	
