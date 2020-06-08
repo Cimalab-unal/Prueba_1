@@ -46,7 +46,8 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 
 **3.3 Breast Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=jPtCkcILCGU
-* Libro: 
+* Libro: Alkabban, F. M., & Ferguson, T. (2019). Cancer, breast. Available from: https://www.ncbi.nlm.nih.gov/books/NBK482286/
+* Artículo: **Deshpande TM, Pandey AK, Shyama SK (2017).** Review: Breast cancer and etiology. <a href="https://www.oatext.com/pdf/TiM-17-110.pdf">Link</a>
 
 **3.4 Gastric Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=TAk5ri1HKFc
@@ -54,13 +55,14 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 
 **3.5 Colorectar Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=Wb0-ginVmtk
-* Libro: 
+* Libro: **Dolwani, Sunil & Singh, Rajvinder & Ragunath, Krish. (2014).** Colorectal Cancer: Diagnosis and Clinical Management.
+* Artículo: **Kuipers, E. J., Grady, W. M., Lieberman, D., Seufferlein, T., Sung, J. J., Boelens, P. G., van de Velde, C. J., & Watanabe, T. (2015).** Colorectal cancer. <a href="https://doi.org/10.1038/nrdp.2015.65">Link</a> 
 
 **3.4 Pancreatic Cancer**
 * Links Youtube: 
   * https://www.youtube.com/watch?v=GqD9cQM-kzk
   * https://www.youtube.com/watch?v=YmsR_Vmom8o
-* Libro: 
+* Artículo: **McGuigan, A., Kelly, P., Turkington, R. C., Jones, C., Coleman, H. G., & McCain, R. S. (2018).** Pancreatic cancer: A review of clinical diagnosis, epidemiology, treatment and outcomes. <a href="https://doi.org/10.3748/wjg.v24.i43.4846">Link</a>
 
 **3.6 Prostate Cancer**
 * Link Youtube: https://www.youtube.com/watch?v=8sC3s9Jek7U
