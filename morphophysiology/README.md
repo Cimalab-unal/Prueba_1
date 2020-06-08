@@ -2,11 +2,11 @@
 
 En esta sección puede encontrar una lista de recursos y material relacionado con conceptos básicos de morfofisiología, los cuales se dividen en tres grupos:
 
-**1. Anatomía**
+### **1. Anatomía**
 
-**2. Fisiología**
+### **2. Fisiología**
 
-**3. Enfermedades**
+### **3. Enfermedades**
 
 ## 1. Conceptos de anatomía humana
 
