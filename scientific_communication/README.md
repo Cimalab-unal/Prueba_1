@@ -33,14 +33,16 @@ El grupo de investigación Cim@Lab recomienda que las presentacones se trabajan 
 
 ## Preparación de artículos científicos
 
-Construir un artículo científico no es una tarea fácil, sobretodo cuando el artículo va a ser sometido a una revista indexada. Sin embargo, está habilidad mejorará conforme tengas claro el tipo de audiencia del evento o la revista al cual va dirigido, y la atención que pongas a las correcciones que indique tu director de tesis. A continuación encuentran una publicación intereante en el que se explica cómo preparar un artículo científico según unas de las editoriales más relevantes en la comunidad científica, Elsevier and Nature:
+Construir un artículo científico no es una tarea fácil, sobretodo cuando el artículo va a ser sometido a una revista indexada. Sin embargo, está habilidad mejorará conforme tengas claro el tipo de audiencia del evento o la revista al cual va dirigido, y la atención que pongas a las correcciones que indique tu director de tesis. A continuación encuentran publicaciones intereantes en que se explica cómo preparar un artículo científico según dos de las editoriales más relevantes en la comunidad científica:
 
 * Elsevier: https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously
 * Nature: https://www.nature.com/nature-research/for-authors/write#how-to-write-a-scientific-paper
 
+Adicionalmente, se recomienda que una vez elegida la revista a la cual se va a someter el artículo, se haga: i) una revisión minuciosa de las pautas para el autor, y ii) una búsqueda artículos ya publicados en dicha revista para entender mejor la estructura que maneja y el alcance mismo de la revista.
+
 ### Manejo de referencias
 
-Una sección infaltable en todo artículo científico es el correspondiente a las referencias, la cual puede generarnos algunos inconvenientes a la hora de organizarlas. A continuación encuentran algunas herramientas para gestionar las referencias:
+Una sección infaltable en todo artículo científico es el correspondiente a las referencias, la cual puede generarnos algunos inconvenientes a la hora de organizarlas. A continuación encuentran algunas herramientas para gestionarlas sin muchos problemas:
 
 * Mendeley: https://www.mendeley.com/
 * EndNote: https://endnote.com/
