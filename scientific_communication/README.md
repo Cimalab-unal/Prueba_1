@@ -1,4 +1,4 @@
-# Divulgación científica
+# Divulgación científica (scientific writing and communication)
 
 Dentro de las formas más relevantes para promover y difundir el conocimiento contruido por medio de la actividad científica se encuentran:
 
