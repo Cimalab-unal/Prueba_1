@@ -8,22 +8,16 @@
 
 # Libros 
 
-## Biomecánica
 
-*Stergiou, N. (2016). Nonlinear analysis for human movement variability. CRC Press.
-
-*2016 Biomechanics and Motor Control Defining Central Concepts Mark L. Latash and Vladimir M. Zatsiorsky Department of Kinesiology, The Pennsylvania State University, PA, USA. ELSEVIER
-
-*Winter, D. A. (2009). Biomechanics and motor control of human movement. John Wiley & Sons.
-Referencias (no subir archivos a menos que sean libres)
-
-## Conceptos de Vision Artificial
+## Conceptos de Vision Artificial para analsis de movimiento
 
 *Majumder, A., & Gopi, M. (2018). Introduction to Visual Computing: Core Concepts in Computer Vision, Graphics, and Image Processing. CRC Press. Cap 7-9 motion tracking
 
 *Deep hierarchies in the primate visual cortex: What can we learn for computer vision?. Kruger, N., Janssen, P., Kalkan, S., Lappe, M., Leonardis, A., Piater, J., ... & Wiskott, L. (2012). IEEE transactions on pattern analysis and machine intelligence, 35(8), 1847-1871.
+https://ieeexplore.ieee.org/abstract/document/6389683
 
 *Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. Medathati, N. K., Neumann, H., Masson, G. S., & Kornprobst, P. (2016). Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. Computer Vision and Image Understanding, 150, 1-30Computer Vision and Image Understanding, 150, 1-30
+https://www.sciencedirect.com/science/article/pii/S1077314216300339
 
 # Repositorios y bases de datos:
 
@@ -96,6 +90,15 @@ https://www.youtube.com/watch?v=UxVqc17fciE
 
 Opensim
 https://www.youtube.com/watch?v=bOu6X0RyGKo 
+
+## Biomecánica
+
+*Stergiou, N. (2016). Nonlinear analysis for human movement variability. CRC Press.
+
+*2016 Biomechanics and Motor Control Defining Central Concepts Mark L. Latash and Vladimir M. Zatsiorsky Department of Kinesiology, The Pennsylvania State University, PA, USA. ELSEVIER
+
+*Winter, D. A. (2009). Biomechanics and motor control of human movement. John Wiley & Sons.
+Referencias (no subir archivos a menos que sean libres)
 
 
 	
