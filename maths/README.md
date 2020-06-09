@@ -11,8 +11,6 @@ All topics of mathematics you can find in files. Here is a description of the co
     0.2. Propositional logic
     
     0.3. Logic of first order
-    
-    0.4. Models theory
 
 #### 1. Functions
 
