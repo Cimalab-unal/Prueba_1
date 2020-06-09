@@ -18,6 +18,14 @@ Nota. El orden de ataque de estos temas puede variar dependiendo de su conocimie
 * Sesgo estadístico en la extracción de muestras (importante para entender como el sesgo puede afectar cada experimento que hagamos)
 
 ### Análisis Exploratorio (Análisis no estrictamente cuantitativo)
+Existen varios cursos abiertos que pueden ayudar, por ejemplo 
+https://www.coursera.org/learn/exploratory-data-analysis
+o quizás videos ilustrativos que ofrecen conceptos
+https://www.youtube.com/watch?v=zHcQPKP6NpM
+y una guía más practica con herramientas de programación como
+https://www.youtube.com/watch?v=5NcbVYhQJvw
+https://www.youtube.com/watch?v=2ncx2q5GHbQ
+
 Exploración univariada
 * Histogramas (representación gráfica de una PDF)
 * Boxplots - Diagramas de cajas
