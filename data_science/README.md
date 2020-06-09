@@ -6,6 +6,7 @@ Es importante tener en cuenta que para cualquier tipo de proceso relacionado con
 Nota. El orden de ataque de estos temas puede variar dependiendo de su conocimiento previo.
 
 ### Conceptos de probabilidad
+Algunas herramientas que pueden ayudar dede la parte practica (https://www.kaggle.com/kanncaa1/statistical-learning-tutorial-for-beginners) pueden no ofrecer fuerte descripción conceptual por lo que recomiendo recurrir a los textos al final de la página para mejorar el proceso de aprendizaje
 * Calculos de probabilidad (axiomática de probabilidad- reglas)
 * Probabilidad condicional e independenncia entre variables
 * Funciones de distribución de probabilidad (PDF)
@@ -23,7 +24,7 @@ https://www.coursera.org/learn/exploratory-data-analysis
 o quizás videos ilustrativos que ofrecen conceptos
 https://www.youtube.com/watch?v=zHcQPKP6NpM
 y una guía más practica con herramientas de programación como
-https://www.youtube.com/watch?v=5NcbVYhQJvw
+https://www.youtube.com/watch?v=5NcbVYhQJvw o quizás 
 https://www.youtube.com/watch?v=2ncx2q5GHbQ
 
 Exploración univariada
@@ -54,9 +55,8 @@ Rizzo, M. L. (2019). Statistical computing with R. CRC Press.
 Referencias/links
 
 ## Tutoriales
-
-Descripción y link
-
+* https://www.kaggle.com/kanncaa1/statistical-learning-tutorial-for-beginners
+* https://www.coursera.org/learn/exploratory-data-analysis
 
 	
 
