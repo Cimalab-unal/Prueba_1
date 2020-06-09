@@ -1,15 +1,15 @@
 # Template
 
-*Libros de Biomecánica y visión artificial
-
 *Repositorios (motion tracking) y bases de datos de movimiento- señales 
 
 *Software para segmentación manual de Movimiento
 
+*Libros de Biomecánica y visión artificial
+
 # Libros 
 
 
-## Conceptos de Vision Artificial para analsis de movimiento
+## Conceptos de Vision Artificial para analisis de movimiento
 
 *Majumder, A., & Gopi, M. (2018). Introduction to Visual Computing: Core Concepts in Computer Vision, Graphics, and Image Processing. CRC Press. Cap 7-9 motion tracking
 
