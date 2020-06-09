@@ -12,7 +12,7 @@ All topics of mathematics you can find in files. Here is a description of the co
     
     0.3. Logic of first order
 
-#### [1. Functions](1. Functions.md)
+#### 1. Functions
 
     1.1. Definition of function, definition of domain and range.
     
