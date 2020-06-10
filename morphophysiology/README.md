@@ -95,7 +95,7 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 * Artículo: **Inamdar, A. A., & Inamdar, A. C. (2016).** Heart Failure: Diagnosis, Management and Utilization. <a href="https://doi.org/10.3390/jcm5070062">Link</a>
 
 **3.3.3 Cardiomiopatía**
-* Cardiomyopathy, animation - https://www.youtube.com/watch?v=9wX_btO1fF4
+* *Cardiomyopathy, animation* - https://www.youtube.com/watch?v=9wX_btO1fF4
 * Artículo: **Alvarez, P., & Tang, W. W. (2017).** Recent Advances in Understanding and Managing Cardiomyopathy. <a href="https://doi.org/10.12688/f1000research.11669.1">Link</a>
 
 
