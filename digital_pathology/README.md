@@ -31,9 +31,10 @@ Numero de escalas:
 'Solidity':
 
 'MassDisplacement':
-https://www.mathworks.com/help/examples/images/win64/MeasureGrayscaleRegionsExample_03.png
+[MassDisplacement'](https://www.mathworks.com/help/examples/images/win64/MeasureGrayscaleRegionsExample_03.png)
 'BoundarySaliency':
-
+Se define como la diferencia entre el borde externo e interno de la region bajo analisis.
+[BoundarySaliency](https://github.com/Cimalab-unal/docs/blob/master/digital_pathology/imagenBorde.png)
 ## Datasets
 Warwick:
 https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe/crchistophenotypes_2016_04_28.zip
