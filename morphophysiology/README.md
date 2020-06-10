@@ -11,8 +11,7 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 ## 1. Conceptos de anatomía humana
 
 **1.1 Anatomía del cerebro**
-* Link YouTube: 
-  * *Neuroscience Basics: Human Brain Anatomy and Lateralization of Brain Function* - https://www.youtube.com/watch?v=owFnH01SD-s
+* *Neuroscience Basics: Human Brain Anatomy and Lateralization of Brain Function* - https://www.youtube.com/watch?v=owFnH01SD-s
   * Encuentra aquí versión más simplificada: https://www.youtube.com/watch?v=m5_FSDEy6OI&t=28s
 * Libro: **Borden N, Forseen S, Stefan C(2015).** *Imaging Anatomy of the Human Brain: A Comprehensive Atlas Including Adjacent Structures*
 
@@ -75,11 +74,11 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 **3.2.1 Alzheimer**
 * *What is Alzheimer's disease?* - https://www.youtube.com/watch?v=wfLP8fFrOp0
 * *Mechanisms and secrets of Alzheimer's disease: exploring the brain* - https://www.youtube.com/watch?v=dj3GGDuu15I
-* Artículo: **DeTure, M.A., Dickson, D.W.(2019).** The neuropathological diagnosis of Alzheimer’s disease.<a href="https://doi.org/10.1186/s13024-019-0333-5">Link</a>
+* Artículo: **DeTure, M.A., Dickson, D.W.(2019).** The neuropathological diagnosis of Alzheimer’s disease. <a href="https://doi.org/10.1186/s13024-019-0333-5">Link</a>
 
 **3.2.2 Parkinson**
 * *Understanding Parkinson's Disease* - https://www.youtube.com/watch?v=AZRq15AD4yA
-* Artículo: **C. A. Davie(2008).** A review of Parkinson's disease<a href="https://doi.org/10.1093/bmb/ldn013">Link</a>
+* Artículo: **C. A. Davie(2008).** A review of Parkinson's disease. <a href="https://doi.org/10.1093/bmb/ldn013">Link</a>
 
 **3.2.2 Esclerosis Múltiple**
 * *Understanding multiple sclerosis and what it does to the body* - https://www.youtube.com/watch?v=nB6yF6Rdxvc
@@ -93,7 +92,7 @@ En esta sección puede encontrar una lista de recursos y material relacionado co
 
 **3.3.2 Insuficiencia Cardiaca**
 * *Heart Failure* - https://www.youtube.com/watch?v=9wX_btO1fF4
-* Artículo: **Inamdar, A. A., & Inamdar, A. C. (2016).** Heart Failure: Diagnosis, Management and Utilization.<a href="https://doi.org/10.3390/jcm5070062">Link</a>
+* Artículo: **Inamdar, A. A., & Inamdar, A. C. (2016).** Heart Failure: Diagnosis, Management and Utilization. <a href="https://doi.org/10.3390/jcm5070062">Link</a>
 
 **3.3.3 Cardiomiopatía**
 * Cardiomyopathy, animation - https://www.youtube.com/watch?v=9wX_btO1fF4
