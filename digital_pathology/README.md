@@ -23,6 +23,16 @@ Celis et al-
 [Articulo](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmi.12304)
 
 ## Tutoriales
+##Watershed Algoritmo
+Este algoritmo usa algunas reglas para aceptar las regiones candidadatas de nucleos (despúes del análisis de cuencas...) que deben ser ajustados para reducir numero de falsos positivos, falsos negativos, siendo  el primero el más frecuente en este algoritmo.
+
+Numero de escalas:
+
+'Solidity':
+
+'MassDisplacement':
+https://www.mathworks.com/help/examples/images/win64/MeasureGrayscaleRegionsExample_03.png
+'BoundarySaliency':
 
 ## Datasets
 Warwick:
@@ -44,3 +54,4 @@ http://vision.cs.stonybrook.edu/~lehhou/home/individual_lym_dataset.zip
 	
 
 
+}
