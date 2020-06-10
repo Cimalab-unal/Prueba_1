@@ -8,36 +8,35 @@ Párrafo introductorio??
 
 *Libros de Biomecánica y visión artificial
 
-# Libros 
+## Conceptos de Biomecánica
 
+* **Stergiou, N.(2016).** Nonlinear analysis for human movement variability. CRC Press.
 
-## Conceptos de Vision Artificial para analisis de movimiento
+* **Latash M. and Zatsiorsky V. (2016).** Biomechanics and Motor Control Defining Central Concepts Department of Kinesiology. ELSEVIER
 
-*Majumder, A., & Gopi, M. (2018). Introduction to Visual Computing: Core Concepts in Computer Vision, Graphics, and Image Processing. CRC Press. Cap 7-9 motion tracking
+* **Winter, D. A. (2009).** Biomechanics and motor control of human movement. <a href="https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf">Link</a>
 
-*Deep hierarchies in the primate visual cortex: What can we learn for computer vision?. Kruger, N., Janssen, P., Kalkan, S., Lappe, M., Leonardis, A., Piater, J., ... & Wiskott, L. (2012). IEEE transactions on pattern analysis and machine intelligence, 35(8), 1847-1871.
-https://ieeexplore.ieee.org/abstract/document/6389683
+## Conceptos de Vision Artificial 
 
-*Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. Medathati, N. K., Neumann, H., Masson, G. S., & Kornprobst, P. (2016). Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. Computer Vision and Image Understanding, 150, 1-30Computer Vision and Image Understanding, 150, 1-30
-https://www.sciencedirect.com/science/article/pii/S1077314216300339
+* **Majumder, A., & Gopi, M. (2018).** Introduction to Visual Computing: Core Concepts in Computer Vision, Graphics, and Image Processing. Cap 7-9 motion tracking
+
+* **Kruger, N., Janssen, P., Kalkan, S., Lappe, M., Leonardis, A., Piater, J. & Wiskott, L. (2012).** Deep hierarchies in the primate visual cortex: What can we learn for computer vision?. <a href="https://ieeexplore.ieee.org/abstract/document/6389683">Link</a>
+
+* **Medathati, N. K., Neumann, H., Masson, G. S., & Kornprobst, P. (2016).** Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. <a href="https://www.sciencedirect.com/science/article/pii/S1077314216300339">Link</a>
 
 # Repositorios y bases de datos:
 
-## Artículos: repositorios con código Pose Estimation
+## Pose Estimation - repositorios con código abierto
 
-3D simple person pose estimation with ResNet (Python Colab Notebook):
-https://colab.research.google.com/drive/1XNsXaSb3A2oJKLsG82FG4srYcgH7eAuW
+* 3D simple person pose estimation with ResNet. <a href="https://colab.research.google.com/drive/1XNsXaSb3A2oJKLsG82FG4srYcgH7eAuW">Python Colab Notebook</a>
 
-Learnable Triangulation of Human Pose (page and code) https://saic-violet.github.io/learnable-triangulation/
+* Learnable Triangulation of Human Pose. <a href="https://saic-violet.github.io/learnable-triangulation/">Página y código abierto</a>
 
-Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)
-Paper: https://arxiv.org/abs/1903.02330
-Code: https://github.com/mkocabas/EpipolarPose
+* Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)
+  * Artículo: https://arxiv.org/abs/1903.02330
+  * Código abierto: https://github.com/mkocabas/EpipolarPose
 
-## tracking ocular
-
-
-## Artículos: otros métodos de visión artificial  para tracking de movimiento
+## Tracking ocular - métodos de visión artificial
 
 Perceiving Systems is a leading Computer Vision research group in Tübingen, Germany:
 https://ps.is.tuebingen.mpg.de/code
@@ -92,17 +91,3 @@ https://www.youtube.com/watch?v=UxVqc17fciE
 
 Opensim
 https://www.youtube.com/watch?v=bOu6X0RyGKo 
-
-## Biomecánica
-
-*Stergiou, N. (2016). Nonlinear analysis for human movement variability. CRC Press.
-
-*2016 Biomechanics and Motor Control Defining Central Concepts Mark L. Latash and Vladimir M. Zatsiorsky Department of Kinesiology, The Pennsylvania State University, PA, USA. ELSEVIER
-
-*Winter, D. A. (2009). Biomechanics and motor control of human movement. John Wiley & Sons.
-Referencias (no subir archivos a menos que sean libres)
-
-
-	
-
-
