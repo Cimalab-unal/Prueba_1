@@ -56,7 +56,9 @@ Estado del arte en metodologías de Tracking de movimiento: https://docs.google.
 
 ** 2010 GaitaBase: Web-based repository system for gait analysis Author links open overlay panel. Oren Tirosh, Richard Baker, Jenny McGinley
 
-*2010 GaitaBase: Web-based repository system for gait analysis Author links open overlay panel. Oren Tirosh, Richard Baker, Jenny McGinley
+* The OU-ISIR Gait Database, Treadmill Dataset  http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitTM.html
+
+
 
 *A large calibrated database of hand movements and grasps kinematics Néstor J. Jarque-Bou, Manfredo Atzori & Henning Müller 
 https://www.nature.com/articles/s41597-019-0349-2 
