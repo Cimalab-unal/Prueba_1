@@ -58,7 +58,9 @@ Estado del arte en metodologías de Tracking de movimiento: https://docs.google.
 
 * The OU-ISIR Gait Database, Treadmill Dataset  http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitTM.html
 
+* A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. Data Descriptor Open Access Published: 03 July 2019. https://www.nature.com/articles/s41597-019-0124-4
 
+* A public dataset of overground and treadmill walking kinematics and kinetics in healthy individuals. Fukuchi, C. A., Fukuchi, R. K., & Duarte, M. (2018).  PeerJ, 6, e4640.https://peerj.com/articles/4640/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD
 
 *A large calibrated database of hand movements and grasps kinematics Néstor J. Jarque-Bou, Manfredo Atzori & Henning Müller 
 https://www.nature.com/articles/s41597-019-0349-2 
