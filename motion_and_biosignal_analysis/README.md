@@ -41,17 +41,15 @@ Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)
   * Artículo: https://arxiv.org/abs/1903.02330
   * Código abierto: https://github.com/mkocabas/EpipolarPose
 
-## Tracking ocular - métodos de visión artificial
+## Tracking ocular - repositorios - métodos de visión artificial
 
-Perceiving Systems is a leading Computer Vision research group in Tübingen, Germany:
-https://ps.is.tuebingen.mpg.de/code
+**Perceiving Systems (leading Computer Vision research group in Tübingen, Germany)** https://ps.is.tuebingen.mpg.de/code
 
-https://paperswithcode.com/task/motion-capture/latest
+**Motion capture** https://paperswithcode.com/task/motion-capture/latest
 
-https://e-archivo.uc3m.es/bitstream/handle/10016/26542/videobased_2015.pdf
-
-Estado del arte en metodologías de Tracking de movimiento: https://docs.google.com/document/d/1Pas9wJ49f9aTWFHnih6zLucQE_Fbw3hL3JF5vT0G500/edit?usp=sharing
-
+* Documentación:
+  * Artículo: **Pham, H.H., Khoudour, L., Crouzil, A., Zegers, P., Velastin, S.A. (2015).** Video-based human action recognition using deep learning: a review. <a href="https://e-archivo.uc3m.es/bitstream/handle/10016/26542/videobased_2015.pdf">Link</a>
+  * Estado del arte en metodologías de Tracking de movimiento. <a href="https://docs.google.com/document/d/1Pas9wJ49f9aTWFHnih6zLucQE_Fbw3hL3JF5vT0G500/edit?usp=sharing">Documento</a> 
 
 ## Bases de datos movimiento (se debe solicitar acceso)
 
