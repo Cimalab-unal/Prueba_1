@@ -10,11 +10,16 @@ Párrafo introductorio??
 
 ## Conceptos de Biomecánica
 
-* **Stergiou, N.(2016).** Nonlinear analysis for human movement variability. CRC Press.
+* YouTube Links:
+  * <a href="https://www.youtube.com/watch?v=ZM8ECpBuQYE&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV">Motion in a Straight Line</a>
+  * <a href="https://www.youtube.com/watch?v=w3BhzYI6zXU&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV&index=2">Vectors and 2D Motion</a>
+  * <a href="https://www.youtube.com/watch?v=bpFK2VCRHUs&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV&index=3">Uniform Circular Motion</a>
+  * <a href="https://www.youtube.com/watch?v=fmXFWi-WfyU&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV&index=4">Rotational Motion</a>
 
-* **Latash M. and Zatsiorsky V. (2016).** Biomechanics and Motor Control Defining Central Concepts Department of Kinesiology. ELSEVIER
-
-* **Winter, D. A. (2009).** Biomechanics and motor control of human movement. <a href="https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf">Link</a>
+* Libros:
+  * **Stergiou, N.(2016).** Nonlinear analysis for human movement variability. CRC Press.
+  * **Latash M. and Zatsiorsky V. (2016).** Biomechanics and Motor Control Defining Central Concepts Department of Kinesiology. ELSEVIER
+  * **Winter, D. A. (2009).** Biomechanics and motor control of human movement. <a href="https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf">Link</a>
 
 ## Conceptos de Vision Artificial 
 
