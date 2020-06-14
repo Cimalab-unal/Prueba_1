@@ -33,15 +33,15 @@ Párrafo introductorio??
 
 ## Pose Estimation - repositorios con código abierto
 
-3D simple person pose estimation with ResNet. <a href="https://colab.research.google.com/drive/1XNsXaSb3A2oJKLsG82FG4srYcgH7eAuW">Python Colab Notebook</a>
+**3D simple person pose estimation with ResNet.** <a href="https://colab.research.google.com/drive/1XNsXaSb3A2oJKLsG82FG4srYcgH7eAuW">Python Colab Notebook</a>
 
-Learnable Triangulation of Human Pose. <a href="https://saic-violet.github.io/learnable-triangulation/">Página y código abierto</a>
+**Learnable Triangulation of Human Pose.** <a href="https://saic-violet.github.io/learnable-triangulation/">Página y código abierto</a>
 
-Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)
+**Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)**
   * Artículo: https://arxiv.org/abs/1903.02330
   * Código abierto: https://github.com/mkocabas/EpipolarPose
 
-## Tracking ocular - repositorios - métodos de visión artificial
+## Tracking ocular - métodos de visión artificial - repositorios con código abierto
 
 **Perceiving Systems (leading Computer Vision research group in Tübingen, Germany)** https://ps.is.tuebingen.mpg.de/code
 
