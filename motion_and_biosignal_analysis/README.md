@@ -82,7 +82,6 @@ PhysioNet The Research Resource for Complex Physiologic Signal:  https://physion
 ## **Kinovea**
  
 * Descargar software: https://www.kinovea.org/en/forum/viewtopic.php?id=854
-
 * Tutoriales Kinovea: 
   * Seguir ángulos y sus gráficas: https://www.youtube.com/watch?v=DKk35ihP2Vs
   * Seguir puntos de interés: https://www.youtube.com/watch?v=25ri3tDKE2U   
@@ -95,4 +94,5 @@ PhysioNet The Research Resource for Complex Physiologic Signal:  https://physion
   * Seguir marcadores: https://www.youtube.com/watch?v=UxVqc17fciE (en  este programa se puede ver en simultáneo el video y la gráfica del tracking). *Precaución¡¡ para marcar manualmente los puntos, cuando se pierde el seguimiento, el programa sugiere oprimir Mayus+click izquierdo. Sin embargo en algunos teclados funcionan Shift+click en vez del Mayus.*
 
 ## **Opensim** 
+
 * https://www.youtube.com/watch?v=bOu6X0RyGKo 
