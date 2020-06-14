@@ -37,9 +37,7 @@ Párrafo introductorio??
 
 **Learnable Triangulation of Human Pose.** <a href="https://saic-violet.github.io/learnable-triangulation/">Página y código abierto</a>
 
-**Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)**
-  * Artículo: https://arxiv.org/abs/1903.02330
-  * Código abierto: https://github.com/mkocabas/EpipolarPose
+**Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)** Artículo: https://arxiv.org/abs/1903.02330. Código abierto: https://github.com/mkocabas/EpipolarPose
 
 ## Tracking ocular - métodos de visión artificial - repositorios con código abierto
 
