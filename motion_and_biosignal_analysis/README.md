@@ -33,17 +33,17 @@ Párrafo introductorio??
 
 ## Pose Estimation - repositorios con código abierto
 
-**3D simple person pose estimation with ResNet.** <a href="https://colab.research.google.com/drive/1XNsXaSb3A2oJKLsG82FG4srYcgH7eAuW">Python Colab Notebook</a>
+3D simple person pose estimation with ResNet. <a href="https://colab.research.google.com/drive/1XNsXaSb3A2oJKLsG82FG4srYcgH7eAuW">Python Colab Notebook</a>
 
-**Learnable Triangulation of Human Pose.** <a href="https://saic-violet.github.io/learnable-triangulation/">Página y código abierto</a>
+Learnable Triangulation of Human Pose. <a href="https://saic-violet.github.io/learnable-triangulation/">Página y código abierto</a>
 
-**Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)** Artículo: https://arxiv.org/abs/1903.02330. Código abierto: https://github.com/mkocabas/EpipolarPose
+Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019). Artículo: https://arxiv.org/abs/1903.02330. Código abierto: https://github.com/mkocabas/EpipolarPose
 
 ## Tracking ocular - métodos de visión artificial - repositorios con código abierto
 
-**Perceiving Systems (leading Computer Vision research group in Tübingen, Germany)** https://ps.is.tuebingen.mpg.de/code
+Perceiving Systems (leading Computer Vision research group in Tübingen, Germany) https://ps.is.tuebingen.mpg.de/code
 
-**Motion capture** https://paperswithcode.com/task/motion-capture/latest
+Motion capture https://paperswithcode.com/task/motion-capture/latest
 
 * Documentación:
   * Artículo: **Pham, H.H., Khoudour, L., Crouzil, A., Zegers, P., Velastin, S.A. (2015).** Video-based human action recognition using deep learning: a review. <a href="https://e-archivo.uc3m.es/bitstream/handle/10016/26542/videobased_2015.pdf">Link</a>
