@@ -55,17 +55,17 @@ HUMANEVA  http://humaneva.is.tue.mpg.de/
 The OU-ISIR Gait Database, Treadmill Dataset http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitTM.html
 
 * Artículos:
-  * GaitBase: Web-based repository system for gait analysis. Oren Tirosh, Richard Baker, Jenny McGinley. 2010.  <a href="https://doi.org/10.1016/j.compbiomed.2009.11.016">Link</a> 
+  * **Tirosh, O., Baker, R., McGinley, J. (2010).** GaitBase: Web-based repository system for gait analysis. <a href="https://doi.org/10.1016/j.compbiomed.2009.11.016">Link</a> 
   
-  * A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. 2019. <a href="https://www.nature.com/articles/s41597-019-0124-4">Link</a> 
+  * **Schreiber, C., Moissenet, F. (2019).** A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. <a href="https://www.nature.com/articles/s41597-019-0124-4">Link</a> 
 
-  * A public dataset of overground and treadmill walking kinematics and kinetics in healthy individuals. Fukuchi, C. A., Fukuchi, R. K., & Duarte, M. 2018. <a href="https://peerj.com/articles/4640/utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD">Link</a>  
+  * **Fukuchi, C. A., Fukuchi, R. K., & Duarte, M. (2018).** A public dataset of overground and treadmill walking kinematics and kinetics in healthy individuals. <a href="https://peerj.com/articles/4640/utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD">Link</a>  
 
-  * A large calibrated database of hand movements and grasps kinematics Néstor J. Jarque-Bou, Manfredo Atzori & Henning Müller. 2020. <a href="https://www.nature.com/articles/s41597-019-0349-2">Link</a> 
+  * **Jarque-Bou N., Atzori, M., & Müller, H. (2020).** A large calibrated database of hand movements and grasps kinematics. <a href="https://www.nature.com/articles/s41597-019-0349-2">Link</a> 
 
-  * A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living. Néstor J. Jarque-Bou, Margarita Vergara, Joaquín L. Sancho-Bru, Verónica Gracia-Ibáñez & Alba Roda-Sales. 2019. <a href="https://www.nature.com/articles/s41597-019-0285-1">Link</a>  
+  * **Jarque-Bou N., Vergara, M., Sancho-Bru, J., Gracia-Ibáñez, V., & Roda-Sales, A. (2019).** A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living. <a href="https://www.nature.com/articles/s41597-019-0285-1">Link</a>  
 
-  * Tracking body and hands for gesture recognition: Natops aircraft handling signals database. Yale Song, David Demirdjian, and Randall Davis. 2011.  <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.379.9169">Link</a>  
+  * **Song, Y., Demirdjian, D., & Davis, R. (2011).** Tracking body and hands for gesture recognition: Natops aircraft handling signals database. <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.379.9169">Link</a>  
 
 ## Bases de datos señales biomédicas (Sensores de movimiento, ECG, EGG )
 
