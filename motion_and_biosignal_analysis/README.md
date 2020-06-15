@@ -1,12 +1,13 @@
 # Análisis de movimiento y bioseñales
 
-Párrafo introductorio??
 
-*Repositorios (motion tracking) y bases de datos de movimiento- señales 
 
-*Software para segmentación manual de Movimiento
+## *Repositorios (motion tracking) y bases de datos de movimiento- señales 
 
-*Biomecánica y visión artificial
+## *Software para segmentación manual de Movimiento
+
+## *Biomecánica y visión artificial
+
 
 ## Conceptos de Biomecánica
 
@@ -16,18 +17,23 @@ Párrafo introductorio??
   * <a href="https://www.youtube.com/watch?v=bpFK2VCRHUs&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV&index=3">Uniform Circular Motion</a>
   * <a href="https://www.youtube.com/watch?v=fmXFWi-WfyU&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV&index=4">Rotational Motion</a>
 
-* Referencias:
+* Artículos:
   * **Stergiou, N. (2016).** Nonlinear analysis for human movement variability.
   * **Latash M. and Zatsiorsky V. (2016).** Biomechanics and Motor Control Defining Central Concepts Department of Kinesiology.
   * **Winter, D. A. (2009).** Biomechanics and motor control of human movement. <a href="https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf">Link</a>
 
-## Conceptos de Vision Artificial - Artículos
+## Conceptos de Vision Artificial
 
-* **Majumder, A., & Gopi, M. (2018).** Introduction to Visual Computing: Core Concepts in Computer Vision, Graphics, and Image Processing. Cap 7-9 motion tracking
+* Enlaces de YouTube:
+  * <a href="https://www.youtube.com/watch?v=WUx_9Cijssw">Computer Vision</a>
+  * <a href="https://www.youtube.com/watch?v=xJrC0v2NcxI">Vision Artificial</a>
+  
+* Artículos:
+  * **Majumder, A., & Gopi, M. (2018).** Introduction to Visual Computing: Core Concepts in Computer Vision, Graphics, and Image Processing. Cap 7-9 motion tracking
 
-* **Kruger, N., Janssen, P., Kalkan, S., Lappe, M., Leonardis, A., Piater, J. & Wiskott, L. (2012).** Deep hierarchies in the primate visual cortex: What can we learn for computer vision?. <a href="https://ieeexplore.ieee.org/abstract/document/6389683">Link</a>
+  * **Kruger, N., Janssen, P., Kalkan, S., Lappe, M., Leonardis, A., Piater, J. & Wiskott, L. (2012).** Deep hierarchies in the primate visual cortex: What can we learn for computer vision?. <a href="https://ieeexplore.ieee.org/abstract/document/6389683">Link</a>
 
-* **Medathati, N. K., Neumann, H., Masson, G. S., & Kornprobst, P. (2016).** Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. <a href="https://www.sciencedirect.com/science/article/pii/S1077314216300339">Link</a>
+  * **Medathati, N. K., Neumann, H., Masson, G. S., & Kornprobst, P. (2016).** Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. <a href="https://www.sciencedirect.com/science/article/pii/S1077314216300339">Link</a>
 
 # Repositorios y bases de datos:
 
@@ -51,27 +57,28 @@ Motion capture https://paperswithcode.com/task/motion-capture/latest
 
 ## Bases de datos movimiento (se debe solicitar acceso)
 
-* HUMAN 3.5 : http://vision.imar.ro/human3.6m/description.php
-* HUMANEVA : http://humaneva.is.tue.mpg.de/ 
+HUMAN 3.5 http://vision.imar.ro/human3.6m/description.php
 
-** 2010 GaitaBase: Web-based repository system for gait analysis Author links open overlay panel. Oren Tirosh, Richard Baker, Jenny McGinley
+HUMANEVA  http://humaneva.is.tue.mpg.de/ 
 
-* The OU-ISIR Gait Database, Treadmill Dataset  http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitTM.html
+The OU-ISIR Gait Database, Treadmill Dataset http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitTM.html
 
-* A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. Data Descriptor Open Access Published: 03 July 2019. https://www.nature.com/articles/s41597-019-0124-4
+* Artículos:
+  * GaitBase: Web-based repository system for gait analysis. Oren Tirosh, Richard Baker, Jenny McGinley. 2010.  <a href="https://doi.org/10.1016/j.compbiomed.2009.11.016">Link</a> 
+  
+  * A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. 2019. <a href="https://www.nature.com/articles/s41597-019-0124-4">Link</a> 
 
-* A public dataset of overground and treadmill walking kinematics and kinetics in healthy individuals. Fukuchi, C. A., Fukuchi, R. K., & Duarte, M. (2018).  PeerJ, 6, e4640.https://peerj.com/articles/4640/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD
+  * A public dataset of overground and treadmill walking kinematics and kinetics in healthy individuals. Fukuchi, C. A., Fukuchi, R. K., & Duarte, M. 2018. <a href="https://peerj.com/articles/4640/utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD">Link</a>  
 
-*A large calibrated database of hand movements and grasps kinematics Néstor J. Jarque-Bou, Manfredo Atzori & Henning Müller 
-https://www.nature.com/articles/s41597-019-0349-2 
+  * A large calibrated database of hand movements and grasps kinematics Néstor J. Jarque-Bou, Manfredo Atzori & Henning Müller. 2020. <a href="https://www.nature.com/articles/s41597-019-0349-2">Link</a> 
 
-*A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living Néstor J. Jarque-Bou, Margarita Vergara, Joaquín L. Sancho-Bru, Verónica Gracia-Ibáñez & Alba Roda-Sales   https://www.nature.com/articles/s41597-019-0285-1
+  * A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living. Néstor J. Jarque-Bou, Margarita Vergara, Joaquín L. Sancho-Bru, Verónica Gracia-Ibáñez & Alba Roda-Sales. 2019. <a href="https://www.nature.com/articles/s41597-019-0285-1">Link</a>  
 
-Tracking body and hands for gesture recognition: Natops aircraft handling signals database
+  * Tracking body and hands for gesture recognition: Natops aircraft handling signals database. Yale Song, David Demirdjian, and Randall Davis. 2011.  <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.379.9169">Link</a>  
 
 ## Bases de datos señales biomédicas (Sensores de movimiento, ECG, EGG )
 
-PhysioNet The Research Resource for Complex Physiologic Signal:  https://physionet.org/  (free-access)
+PhysioNet The Research Resource for Complex Physiologic Signal https://physionet.org/  (free-access)
 
 # Software de segmentación manual de movimiento en video
 
