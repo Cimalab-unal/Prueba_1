@@ -1,14 +1,5 @@
 # Análisis de movimiento y bioseñales
 
-
-
-## *Repositorios (motion tracking) y bases de datos de movimiento- señales 
-
-## *Software para segmentación manual de Movimiento
-
-## *Biomecánica y visión artificial
-
-
 ## Conceptos de Biomecánica
 
 * Enlaces de YouTube:
