@@ -1,93 +1,92 @@
 # Análisis de movimiento y bioseñales
 
-Párrafo introductorio??
+# Conceptos de Biomecánica
 
-*Repositorios (motion tracking) y bases de datos de movimiento- señales 
+* Enlaces de YouTube:
+  * <a href="https://www.youtube.com/watch?v=ZM8ECpBuQYE&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV">Motion in a Straight Line</a>
+  * <a href="https://www.youtube.com/watch?v=w3BhzYI6zXU&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV&index=2">Vectors and 2D Motion</a>
+  * <a href="https://www.youtube.com/watch?v=bpFK2VCRHUs&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV&index=3">Uniform Circular Motion</a>
+  * <a href="https://www.youtube.com/watch?v=fmXFWi-WfyU&list=PLUzB5g6dgYKzGaWy4EV2PCVnL1-iByYaV&index=4">Rotational Motion</a>
 
-*Software para segmentación manual de Movimiento
+* Artículos:
+  * **Stergiou, N. (2016).** Nonlinear analysis for human movement variability.
+  * **Latash M. and Zatsiorsky V. (2016).** Biomechanics and Motor Control Defining Central Concepts Department of Kinesiology.
+  * **Winter, D. A. (2009).** Biomechanics and motor control of human movement. <a href="https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf">Link</a>
 
-*Libros de Biomecánica y visión artificial
+# Conceptos de Vision Artificial
 
-## Conceptos de Biomecánica
+* Enlaces de YouTube:
+  * <a href="https://www.youtube.com/watch?v=WUx_9Cijssw">Computer Vision</a>
+  * <a href="https://www.youtube.com/watch?v=xJrC0v2NcxI">Vision Artificial</a>
+  
+* Artículos:
+  * **Majumder, A., & Gopi, M. (2018).** Introduction to Visual Computing: Core Concepts in Computer Vision, Graphics, and Image Processing. Cap 7-9 motion tracking
 
-* **Stergiou, N.(2016).** Nonlinear analysis for human movement variability. CRC Press.
+  * **Kruger, N., Janssen, P., Kalkan, S., Lappe, M., Leonardis, A., Piater, J. & Wiskott, L. (2012).** Deep hierarchies in the primate visual cortex: What can we learn for computer vision?. <a href="https://ieeexplore.ieee.org/abstract/document/6389683">Link</a>
 
-* **Latash M. and Zatsiorsky V. (2016).** Biomechanics and Motor Control Defining Central Concepts Department of Kinesiology. ELSEVIER
-
-* **Winter, D. A. (2009).** Biomechanics and motor control of human movement. <a href="https://edisciplinas.usp.br/pluginfile.php/4174628/mod_resource/content/2/David%20A.%20Winter-Biomechanics%20and%20Motor%20Control%20of%20Human%20Movement-Wiley%20%282009%29.pdf">Link</a>
-
-## Conceptos de Vision Artificial 
-
-* **Majumder, A., & Gopi, M. (2018).** Introduction to Visual Computing: Core Concepts in Computer Vision, Graphics, and Image Processing. Cap 7-9 motion tracking
-
-* **Kruger, N., Janssen, P., Kalkan, S., Lappe, M., Leonardis, A., Piater, J. & Wiskott, L. (2012).** Deep hierarchies in the primate visual cortex: What can we learn for computer vision?. <a href="https://ieeexplore.ieee.org/abstract/document/6389683">Link</a>
-
-* **Medathati, N. K., Neumann, H., Masson, G. S., & Kornprobst, P. (2016).** Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. <a href="https://www.sciencedirect.com/science/article/pii/S1077314216300339">Link</a>
+  * **Medathati, N. K., Neumann, H., Masson, G. S., & Kornprobst, P. (2016).** Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. <a href="https://www.sciencedirect.com/science/article/pii/S1077314216300339">Link</a>
 
 # Repositorios y bases de datos:
 
 ## Pose Estimation - repositorios con código abierto
 
-* 3D simple person pose estimation with ResNet. <a href="https://colab.research.google.com/drive/1XNsXaSb3A2oJKLsG82FG4srYcgH7eAuW">Python Colab Notebook</a>
+3D simple person pose estimation with ResNet. <a href="https://colab.research.google.com/drive/1XNsXaSb3A2oJKLsG82FG4srYcgH7eAuW">Python Colab Notebook</a>
 
-* Learnable Triangulation of Human Pose. <a href="https://saic-violet.github.io/learnable-triangulation/">Página y código abierto</a>
+Learnable Triangulation of Human Pose. <a href="https://saic-violet.github.io/learnable-triangulation/">Página y código abierto</a>
 
-* Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)
-  * Artículo: https://arxiv.org/abs/1903.02330
-  * Código abierto: https://github.com/mkocabas/EpipolarPose
+Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019). Artículo: https://arxiv.org/abs/1903.02330. Código abierto: https://github.com/mkocabas/EpipolarPose
 
-## Tracking ocular - métodos de visión artificial
+## Tracking ocular - métodos de visión artificial - repositorios con código abierto
 
-Perceiving Systems is a leading Computer Vision research group in Tübingen, Germany:
-https://ps.is.tuebingen.mpg.de/code
+Perceiving Systems (leading Computer Vision research group in Tübingen, Germany) https://ps.is.tuebingen.mpg.de/code
 
-https://paperswithcode.com/task/motion-capture/latest
+Motion capture https://paperswithcode.com/task/motion-capture/latest
 
-https://e-archivo.uc3m.es/bitstream/handle/10016/26542/videobased_2015.pdf
-
-Estado del arte en metodologías de Tracking de movimiento: https://docs.google.com/document/d/1Pas9wJ49f9aTWFHnih6zLucQE_Fbw3hL3JF5vT0G500/edit?usp=sharing
-
-
+* Documentación:
+  * Artículo: **Pham, H.H., Khoudour, L., Crouzil, A., Zegers, P., Velastin, S.A. (2015).** Video-based human action recognition using deep learning: a review. <a href="https://e-archivo.uc3m.es/bitstream/handle/10016/26542/videobased_2015.pdf">Link</a>
+  * Estado del arte en metodologías de Tracking de movimiento. <a href="https://docs.google.com/document/d/1Pas9wJ49f9aTWFHnih6zLucQE_Fbw3hL3JF5vT0G500/edit?usp=sharing">Documento</a> 
 
 ## Bases de datos movimiento (se debe solicitar acceso)
 
-* HUMAN 3.5 : http://vision.imar.ro/human3.6m/description.php
-* HUMANEVA : http://humaneva.is.tue.mpg.de/ 
+HUMAN 3.5 http://vision.imar.ro/human3.6m/description.php
 
-** 2010 GaitaBase: Web-based repository system for gait analysis Author links open overlay panel. Oren Tirosh, Richard Baker, Jenny McGinley
+HUMANEVA  http://humaneva.is.tue.mpg.de/ 
 
-*2010 GaitaBase: Web-based repository system for gait analysis Author links open overlay panel. Oren Tirosh, Richard Baker, Jenny McGinley
+The OU-ISIR Gait Database, Treadmill Dataset http://www.am.sanken.osaka-u.ac.jp/BiometricDB/GaitTM.html
 
-*A large calibrated database of hand movements and grasps kinematics Néstor J. Jarque-Bou, Manfredo Atzori & Henning Müller 
-https://www.nature.com/articles/s41597-019-0349-2 
+* Artículos:
+  * **Tirosh, O., Baker, R., McGinley, J. (2010).** GaitBase: Web-based repository system for gait analysis. <a href="https://doi.org/10.1016/j.compbiomed.2009.11.016">Link</a> 
+  
+  * **Schreiber, C., Moissenet, F. (2019).** A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. <a href="https://www.nature.com/articles/s41597-019-0124-4">Link</a> 
 
-*A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living Néstor J. Jarque-Bou, Margarita Vergara, Joaquín L. Sancho-Bru, Verónica Gracia-Ibáñez & Alba Roda-Sales   https://www.nature.com/articles/s41597-019-0285-1
+  * **Fukuchi, C. A., Fukuchi, R. K., & Duarte, M. (2018).** A public dataset of overground and treadmill walking kinematics and kinetics in healthy individuals. <a href="https://peerj.com/articles/4640/utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD">Link</a>  
 
-Tracking body and hands for gesture recognition: Natops aircraft handling signals database
+  * **Jarque-Bou N., Atzori, M., & Müller, H. (2020).** A large calibrated database of hand movements and grasps kinematics. <a href="https://www.nature.com/articles/s41597-019-0349-2">Link</a> 
+
+  * **Jarque-Bou N., Vergara, M., Sancho-Bru, J., Gracia-Ibáñez, V., & Roda-Sales, A. (2019).** A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living. <a href="https://www.nature.com/articles/s41597-019-0285-1">Link</a>  
+
+  * **Song, Y., Demirdjian, D., & Davis, R. (2011).** Tracking body and hands for gesture recognition: Natops aircraft handling signals database. <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.379.9169">Link</a>  
 
 ## Bases de datos señales biomédicas (Sensores de movimiento, ECG, EGG )
 
-PhysioNet The Research Resource for Complex Physiologic Signal:  https://physionet.org/  (free-access)
+PhysioNet The Research Resource for Complex Physiologic Signal https://physionet.org/  (free-access)
 
 # Software de segmentación manual de movimiento en video
 
-*Kinovea:
+## **Kinovea**
  
-Descargar  kinovea https://www.kinovea.org/en/forum/viewtopic.php?id=854
-Tutoriales Kinovea: 
+* Descargar software: https://www.kinovea.org/en/forum/viewtopic.php?id=854
+* Tutoriales Kinovea: 
+  * Seguir ángulos y sus gráficas: https://www.youtube.com/watch?v=DKk35ihP2Vs
+  * Seguir puntos de interés: https://www.youtube.com/watch?v=25ri3tDKE2U   
 
-seguir ángulos y sus gráficas:https://www.youtube.com/watch?v=DKk35ihP2Vs
+## **Tracker**
 
-seguir puntos de interés: https://www.youtube.com/watch?v=25ri3tDKE2U   
+* Descargar software: https://physlets.org/tracker/
+* Tutorial de instalación: https://www.youtube.com/watch?v=3zirzm-rMOo 
+* Tutoriales Tracker: 
+  * Seguir marcadores: https://www.youtube.com/watch?v=UxVqc17fciE (en  este programa se puede ver en simultáneo el video y la gráfica del tracking). *Precaución¡¡ para marcar manualmente los puntos, cuando se pierde el seguimiento, el programa sugiere oprimir Mayus+click izquierdo. Sin embargo en algunos teclados funcionan Shift+click en vez del Mayus.*
 
-*Tracker 
-Descargar Tracker: https://physlets.org/tracker/
-Tutorial de instalación: 
-https://www.youtube.com/watch?v=3zirzm-rMOo 
+## **Opensim** 
 
-Tutoriales Tracker: aqui enseñan como seguir marcadores: en  este programa se puede ver en simultáneo el video y la gráfica del tracking. Precaución¡¡ para marcar manualmente los puntos, cuando se pierde el seguimiento, el programa sugiere oprimir Mayus+click izquierdo. Sin embargo en algunos teclados funcionan Shift+click en vez del Mayus.
-
-https://www.youtube.com/watch?v=UxVqc17fciE
-
-Opensim
-https://www.youtube.com/watch?v=bOu6X0RyGKo 
+* https://www.youtube.com/watch?v=bOu6X0RyGKo 
