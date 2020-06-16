@@ -17,15 +17,19 @@ Bienvenidos. Espacio creado principalmente para no ingenieros
 - 
 
 ## Qué es el espacio del tiempo y el espacio de la frecuencia
+- La información de la forma S(t) en t es la forma en la que se describe la magnitud física en el tiempo y se dice que la información está en el dominio del tiempo
+- Pero es posible tomar una señal y representarla en lo que se llama el dominio de la frecuencia (representar la señal como una composición de otras señales en el tiempo mediante las funciones senos y cosenos)
+- De la composición decimos que una señal en el tiempo solo tiene determinadas frecuencias en las que algunas tienen mayor peso que otras
 
 ## Qué es una Transformada de Fourier
+- Es la operación matemática para transformar algo en el dominio del tiempo al dominio de la frecuencia
 
 ## Qué es un filtro
+- Es algo que se aplica para alterar la señal (según la necesidad), por ejemplo, quitar la información de alta frecuencia en una señal
 
 ## Libros
 
 Hay dos libros en este espacio
-Referencias (no subir archivos a menos que sean libres)
 
 ## Artículos
 
