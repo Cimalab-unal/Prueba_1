@@ -1,17 +1,23 @@
 # Señales y procesamiento de imágnes
 Bienvenidos. Espacio creado principalmente para no ingenieros
 
-### Qué es una señal
+## Qué es una señal
 
-### Qué es una cuantización
+-Es una variación de una magnitud (por ejemplo física) en el tiempo
+-Suele hablarse de señales analógicas (variación en forma continua en el tiempo) y señales digitales (solo pueden tomar unos valores puntuales)
+-La representación gráfica se hace expresándola como S(t) en el eje vertical y t en el eje horizontal
+-Los datos de una señal suelen estar en una tabla o matriz donde se encuentran los datos de los puntos de la señal (el instante en el tiempo y qué valor tiene para ese tiempo)
 
-### Qué es una señal continua y una señal discreta
+## Qué es una cuantización
+-Los sistemas son finitos lo que hace que la representación de las señales deba hacerse de manera cuantizada y limitada pero suficiente para no perder información
 
-### Qué es el espacio del tiempo y el espacio de la frecuencia
+## Qué es una señal continua y una señal discreta
 
-### Qué es una Transformada de Fourier
+## Qué es el espacio del tiempo y el espacio de la frecuencia
 
-### Qué es un filtro
+## Qué es una Transformada de Fourier
+
+## Qué es un filtro
 
 ## Libros
 
