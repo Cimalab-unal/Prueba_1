@@ -17,9 +17,19 @@ Breve resumen de sus diferencias y usos: [link](https://blog.radiology.virginia.
 [DICOM](https://www.dicomstandard.org/) (Digital Imaging and Communications in Medicine) es el estándar aceptado para el manejo, archivo y transmisión de imágenes médicas. Este formato agrupa la información del paciente y la imágen en un solo archivo.
 En algunos casos una imágen puede estar dividida en varios archivos DICOM, por ejemplo: un volumen, o imagen 3D, esta compuesto por múltiples archivos DICOM que contienen la información para cada una de las *"tajadas"* en 2D.
 
-### Otros formatos
+### Formatos de archivos
 
- - NIfTI (.nii / .nii.gz) usado para imágenes en 3D
+ - [NIfTI](https://nifti.nimh.nih.gov/) (.nii)
+ - Analyze (.img/.hdr)
+ - ITK MetaImage (.mha/.mhd)
+
+## Conversión entre formatos
+
+De DICOM a NIfTI:
+
+- **dcm2niix** función de [MRIcroGL](https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage)
+- **mrconvert** función de [MRtrix3](https://mrtrix.readthedocs.io/en/latest/reference/commands/mrconvert.html)
+- **fslchfiletype** función de [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Fslutils)
 
 ## Visualización de imágenes médicas
 
@@ -31,6 +41,10 @@ Existen múltiples herramientas para visualizar imágenes médicas, algunas de e
 
 Ver también:
 [Top 25 Free Dicom Viewers for Doctors, Medical Students, and Health Professionals](https://www.postdicom.com/en/blog/top-25-free-dicom-viewers)
+
+## Marcación y segmentación manual de imágenes
+
+- [itk-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
 
 ## Artículos de interés
 
