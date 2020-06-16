@@ -12,6 +12,9 @@ Bienvenidos. Espacio creado principalmente para no ingenieros
 - Los sistemas son finitos lo que hace que la representación de las señales deba hacerse de manera cuantizada y limitada pero suficiente para no perder información
 
 ## Qué es una señal continua y una señal discreta
+- La continua es la analógica y la discreta es la digital
+- Suele hablarse en este campo de conversores A/D (para llevar magnitudes físicas al mundo digital) o D/A (al revés) [CONVERSORES D/A Y A/D](https://www.fceia.unr.edu.ar/enica3/da-ad.pdf)
+- 
 
 ## Qué es el espacio del tiempo y el espacio de la frecuencia
 
