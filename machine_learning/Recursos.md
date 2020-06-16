@@ -11,9 +11,7 @@ Referencias (no subir archivos a menos que sean libres)
 
 ## Artículos científicos
 
-## Tutoriales en video
-Gentle introduction to Machine Learning
--	[Intro](https://www.youtube.com/watch?v=Gv9_4yMHFhI)	
+## Tutoriales Youtube
 StatQuest Channel
 -	[StatQuest](https://www.youtube.com/user/joshstarmer)
 
