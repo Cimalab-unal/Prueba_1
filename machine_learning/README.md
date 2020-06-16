@@ -13,9 +13,11 @@ En la literatura se pueden encontrar tres tipos principales de aprendizaje que p
 
 ### Aprendizaje supervisado
 
-Este tipo de aprendizaje es el más utilizado y consiste en 
+Este tipo de aprendizaje es el más utilizado, se basa en el uso de conjuntos de datos marcados o etiquetados
 
 ### Aprendizaje no supervisado
+
+
 
 ### Aprendizaje por refuerzo
 
