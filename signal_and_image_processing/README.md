@@ -30,19 +30,6 @@ Bienvenidos. Espacio creado principalmente para no ingenieros
 ## Simuladores y aplicaciones online interactivas
 - Para probar algunos conceptos [Calculadora de Fourier](https://www.mathstools.com/section/main/fourier_series_online#.XukOHaJ7k_4)
 
-## Libros
-
-Hay dos libros en este espacio
-
-## Artículos
-
-Referencias/links
-
-## Tutoriales
-
-Descripción y link
-
-
-	
-
-
+## Procesamiento de imágenes
+- Son las técnicas que se aplican a las imágenes con algún propósito (extraer información, encontrar información, mejorar la calidad, etc)
+- Ver la siguiente clase: [Procesamiento Digital de Imágenes](http://www.exa.unicen.edu.ar/catedras/pdi/FILES/TE/CP1.pdf)
