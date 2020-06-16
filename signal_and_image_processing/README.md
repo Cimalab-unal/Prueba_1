@@ -17,9 +17,9 @@ Bienvenidos. Espacio creado principalmente para no ingenieros
 - Suele hablarse en este campo de conversores A/D (para llevar magnitudes físicas al mundo digital) o D/A (al revés) [CONVERSORES D/A Y A/D](https://www.fceia.unr.edu.ar/enica3/da-ad.pdf)
 
 ## Qué es el espacio del tiempo y el espacio de la frecuencia
-- La información de la forma S(t) en t es la forma en la que se describe la magnitud física en el tiempo y se dice que la información está en el dominio del tiempo
+- La información de la forma S(t) es la forma en la que se describe la magnitud física en el tiempo y se dice que la información está en el dominio del tiempo
 - Pero es posible tomar una señal y representarla en lo que se llama el dominio de la frecuencia (representar la señal como una composición de otras señales en el tiempo mediante las funciones senos y cosenos)
-- De la composición decimos que una señal en el tiempo solo tiene determinadas frecuencias en las que algunas tienen mayor peso que otras
+- De la composición decimos que una señal en el tiempo tiene determinadas frecuencias en las que algunas tienen mayor peso que otras
 
 ## Qué es una Transformada de Fourier
 - Es la operación matemática para transformar algo en el dominio del tiempo al dominio de la frecuencia
