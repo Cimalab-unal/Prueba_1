@@ -22,7 +22,7 @@ Bienvenidos. Espacio creado principalmente para no ingenieros
 - De la composición decimos que una señal en el tiempo tiene determinadas frecuencias en las que algunas tienen mayor peso que otras
 
 ## Qué es una Transformada de Fourier
-- Es la operación matemática para transformar algo en el dominio del tiempo al dominio de la frecuencia
+- Es la operación matemática para transformar algo que está en el dominio del tiempo al dominio de la frecuencia
 
 ## Qué es un filtro
 - Es algo que se aplica para alterar la señal (según la necesidad), por ejemplo, quitar la información de alta frecuencia en una señal
