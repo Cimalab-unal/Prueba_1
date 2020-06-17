@@ -1,15 +1,9 @@
 # Computational Brain Anatomy and morphometry
+---
 
-## MRI data
+## Brain MRI processing
 
-Most MRI data comes in DICOM (.dcm) and NIfTI (.nii or .nii.gz) formats.
-
-To convert DICOM files to NIfTI format you can use:
-
- - **dcm2niix** function of [MRIcroGL](https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage)
- - **mrconvert** function of [MRtrix3](https://mrtrix.readthedocs.io/en/latest/reference/commands/mrconvert.html)
-
-## Software and libraries to process MRI data
+### Software and libraries to process and analyze MRI data
 
  - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
  - [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
@@ -18,7 +12,7 @@ To convert DICOM files to NIfTI format you can use:
  - [ANTs](http://stnava.github.io/ANTs/)
  - [NIfTI libary for MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
 
-## Key concepts
+### Key concepts
 
  - MRI artifacts: Noise, Bias-field
  - Intensity normalisation
@@ -26,29 +20,34 @@ To convert DICOM files to NIfTI format you can use:
  - Segmentation
  - Templates and Atlases
 
-## Tutorials
+### Lectures and Tutorials
 
+ - FSL lecture about [Brain Extraction, Registration, Motion Correction and EPI Distortion correction](http://fsl.fmrib.ox.ac.uk/fslcourse/lectures/reg.pdf)
+ - ANTs lecture about [Image Registration](http://stnava.github.io/ANTsRegistrationTalk/#/)
  - About MRI pre-processing
  - About registration
 
-## References
+### References
 
-Journal papers describing main concepts and methods
+ - *N4ITK: Improved N3 Bias Correction* (Jun, 2010) [link](https://ieeexplore.ieee.org/document/5445030)
+
+---
 
 ## Other materials
 
-### Virtual courses
-
-Some of these courses might be sponsored by Universidad Nacional de Colombia:
+### MOOC
 
  - [Fundamental Neuroscience for Neuroimaging](https://www.coursera.org/learn/neuroscience-neuroimaging/) in Coursera
  - [Introduction to Neurohacking In R](https://www.coursera.org/learn/neurohacking) in Coursera
 
 ### YouTube videos
 
- - [Mumford Brain Stats](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA) YouTube channel
+ - [Mumford Brain Stats](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA) YouTube channel about statistical analysis of brain MRI data.
+ - FSL Introductory lectures, [part 1](https://www.youtube.com/watch?v=Y6Mu_09ou5E&index=1&list=PLvgasosJnUVnSoMl3rsWDIaFuZQu_rtyT) & [part 2](https://www.youtube.com/watch?v=2Xbj1xsQPBY&index=2&list=PLvgasosJnUVnSoMl3rsWDIaFuZQu_rtyT)
+
+---
 
 #### Contributing
 
-This section is under construction, contributions and suggestions are highly appreciated.  
+This section is under construction, contributions and suggestions are highly appreciated.
 *[Diana Giraldo](https://github.com/diagiraldo)*
