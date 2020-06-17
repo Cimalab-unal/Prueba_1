@@ -2,12 +2,12 @@
 ---
 ## Modalidades de imágenes médicas
 
- - Rayos X / X-rays
- - Tomografía computarizada / Computed Tomography (CT)
- - Resonancia Magnética / Magnetic Resonance Imaging (MRI):
-  - [Introduction to MRI physics](http://fsl.fmrib.ox.ac.uk/fslcourse/physics+apps/2019/fsl_introMRI.pdf), slides by Mark Chiew
- - Ultrasonido / Ultrasound (US)
- - Tomografía por emisión de positrones / Positron Emission Tomography (PET)
+- Rayos X / X-rays
+- Tomografía computarizada / Computed Tomography (CT)
+- Resonancia Magnética / Magnetic Resonance Imaging (MRI):
+    - [Introduction to MRI physics](http://fsl.fmrib.ox.ac.uk/fslcourse/physics+apps/2019/fsl_introMRI.pdf), slides by Mark Chiew
+- Ultrasonido / Ultrasound (US)
+- Tomografía por emisión de positrones / Positron Emission Tomography (PET)
 
 Breve resumen de sus diferencias y usos: [link](https://blog.radiology.virginia.edu/different-imaging-tests-explained/)
 
@@ -26,7 +26,7 @@ En algunos casos una imágen puede estar dividida en varios archivos DICOM, por 
  - [NIfTI](https://nifti.nimh.nih.gov/): un solo archivo (.nii) contiene toda la información.
  - ITK MetaImage (.mha/.mhd)
 
-## Conversión entre formatos
+### Conversión entre formatos
 
 De DICOM a NIfTI:
 
@@ -43,17 +43,14 @@ Existen múltiples herramientas para visualizar imágenes médicas, algunas de e
 - [Mango](http://ric.uthscsa.edu/mango/mango.html)
 - **mrview** en [MRtrix3](https://mrtrix.readthedocs.io/en/latest/reference/commands/mrview.html)
 - **fslview** en [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView)
+- [itk-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) permite la marcación y segmentación manual de imágenes
 
 Ver también:
 [Top 25 Free Dicom Viewers for Doctors, Medical Students, and Health Professionals](https://www.postdicom.com/en/blog/top-25-free-dicom-viewers)
 
-## Marcación y segmentación manual de imágenes
-
-- [itk-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php)
-
 ---
 
-## Aplicaciones
+### Aplicaciones
 
  - [Imágenes cerebrales](/computational_brain_morphometry.md)
  - Corazón
