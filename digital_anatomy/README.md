@@ -1,5 +1,6 @@
 # Anatomía digital por imágenes
 ---
+
 ## Modalidades de imágenes médicas
 
 - Rayos X / X-rays
@@ -52,7 +53,7 @@ Ver también:
 
 ### Aplicaciones
 
- - [Imágenes cerebrales](/computational_brain_morphometry.md)
+ - [Imágenes cerebrales](/digital_anatomy/computational_brain_morphometry.md)
  - Corazón
  - ...
 
