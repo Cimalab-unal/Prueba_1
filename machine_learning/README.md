@@ -13,12 +13,15 @@ En la literatura se pueden encontrar tres tipos principales de aprendizaje que p
 
 ### Aprendizaje supervisado
 
-Este tipo de aprendizaje es el más utilizado, se basa en el uso de conjuntos de datos marcados o etiquetados
+Este tipo de aprendizaje es el más utilizado, se basa en el uso de conjuntos de datos marcados o etiquetados, donde la máquina encuentra los patrones o estructuras que se indican mediante las etiquetas
+- [Artículo On-line](https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590)
 
 ### Aprendizaje no supervisado
 
-
+En este tipo de aprendizaje los datos no están etiquetados o marcados, la máquina de forma atónoma descubre patrones de acuerdo con asociaciones entre los datos
+- [Artículo On-line](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
 
 ### Aprendizaje por refuerzo
 
-
+Este tipo de aprendizaje se basa en dar "premios" o "castigos" al algoritmo para que cumpla con una tarea específica
+- [Artículo](https://www.geeksforgeeks.org/what-is-reinforcement-learning/)
