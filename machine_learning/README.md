@@ -1,6 +1,6 @@
 # Introducción
 
-En este apartado se encuentra una serie de recursos para entender y poder aplicar técnicas de machine learning a problemas diversos. Dentro de los recursos presentados hay videos, lecturas y artículos on-line, artículos científicos entre otros. Antes de dejar los enlaces y referencias, es importante que signifíca machine learning.
+En este apartado se encuentra una serie de recursos para entender y poder aplicar técnicas de machine learning a problemas diversos. Dentro de los recursos presentados hay videos, lecturas y artículos on-line, artículos científicos entre otros. Antes de dejar los enlaces y referencias, es importante aclarar que signifíca machine learning.
 
 ## ¿Qué significa Machine Learning?
 
