@@ -24,4 +24,4 @@ En este tipo de aprendizaje los datos no están etiquetados o marcados, la máqu
 ### Aprendizaje por refuerzo
 
 Este tipo de aprendizaje se basa en dar "premios" o "castigos" al algoritmo para que cumpla con una tarea específica
-- [Artículo](https://www.geeksforgeeks.org/what-is-reinforcement-learning/)
+- [Artículo On-line](https://www.geeksforgeeks.org/what-is-reinforcement-learning/)
