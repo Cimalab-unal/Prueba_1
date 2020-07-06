@@ -100,11 +100,3 @@ I supposed the books you can find in the data base of the University.
 
 [Vectorial calculus - Department of mathematics - Universidad del Valle](http://mafalda.univalle.edu.co/~dohin/calculo-III/guias123.pdf)
 
-
-## Artículos
-
-Referencias/links
-
-## Tutoriales
-
-Descripción y link
