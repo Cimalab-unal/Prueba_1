@@ -15,7 +15,7 @@
 
 # Conceptos de Vision Artificial
 
-* Enlaces de YouTube:
+* Enlaces de You-Tube:
   * <a href="https://www.youtube.com/watch?v=WUx_9Cijssw">Computer Vision</a>
   * <a href="https://www.youtube.com/watch?v=xJrC0v2NcxI">Vision Artificial</a>
   
