@@ -22,10 +22,9 @@
 
 ### Lectures and Tutorials
 
- - FSL lecture about [Brain Extraction, Registration, Motion Correction and EPI Distortion correction](http://fsl.fmrib.ox.ac.uk/fslcourse/lectures/reg.pdf)
+ - FSL [online course materials](http://fsl.fmrib.ox.ac.uk/fslcourse/online_materials.html)
  - ANTs lecture about [Image Registration](http://stnava.github.io/ANTsRegistrationTalk/#/)
- - About MRI pre-processing
- - About registration
+ - Introductory textbooks: [Oxford Neuroimaging Primers](http://www.neuroimagingprimers.org/)
 
 ### References
 
